@@ -1,5 +1,5 @@
 # NS2 Emulator
-<img scr="ns2emulator.png" height="80px">
+<img scr="IMG_3730.jpeg" height="80px">
 A handheld console emulator written in C and Python.
 
 ### Coming soon
